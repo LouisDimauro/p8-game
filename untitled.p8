@@ -17,6 +17,7 @@ if (btn(1)) x +=2
 if (btn(2)) y -=2
 if (btn(3)) y +=2
 
+          
 end
 
 __gfx__
